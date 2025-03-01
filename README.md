@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/RoeiMesi/FooBook_Android/assets/23407020/3d17bb9e-deb7-4f75-a8d4-13802d6e0e38" alt="foobook_logo">
+  <img src="https://raw.githubusercontent.com/RoeiMesi/FooBook_Android/main/app/src/main/res/drawable/foobook_logo.png" alt="foobook_logo">
 </p>
 
 ## Table of Contents
